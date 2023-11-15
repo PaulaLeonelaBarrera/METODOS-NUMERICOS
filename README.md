@@ -1,7 +1,7 @@
 # METODOS NUMERICOS
 TEMA: Solución de Sistema de Ecuaciones Lineales
 
-#CRONOGRAMA:
+CRONOGRAMA:
 
 #INTRODUCCIÓN
 
@@ -41,8 +41,12 @@ en un mundo cada
 vez más
 interconectado."
 
+##CARPETA con implementaciones en Python:  
+GENERAL: https://colab.research.google.com/drive/1aZ7rRSk5bnCvPmWLRX4IX85NVhDeaE8N
 
-#PROCESAMIENTO DE IMÁGENES
+Monte Carlo: https://colab.research.google.com/drive/1PCeJ-sYNMQlC8tPygIdw_RxOUcMroQIK#scrollTo=86UTSYPGtMzc
+
+##PROCESAMIENTO DE IMÁGENES
 
 Esta charla ofrecerá una breve explicación para iniciarse en el amplió campo del procesamiento 
 de imágenes basándonos en la librería OpenCV.
@@ -56,7 +60,7 @@ imágenes tales como: Adquisición de imágenes; Transformación; Prepocesamient
 Extracción de rasgos y Clasificación de objetos.
 
 
-#CARPETA con implementaciones en Python:  https://colab.research.google.com/drive/1aZ7rRSk5bnCvPmWLRX4IX85NVhDeaE8N
+
 
 ## Aplicación de Carlos Bustillo.
 
