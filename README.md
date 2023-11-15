@@ -54,7 +54,9 @@ gracias a la experiencia adquirida.
 Luego se hablará de las etapas esenciales que se debe tener en cuenta para el procesamiento de 
 imágenes tales como: Adquisición de imágenes; Transformación; Prepocesamiento; Filtración; 
 Extracción de rasgos y Clasificación de objetos.
-```
+
+
+#CARPETA con implementaciones en Python:  https://colab.research.google.com/drive/1aZ7rRSk5bnCvPmWLRX4IX85NVhDeaE8N
 
 ## Aplicación de Carlos Bustillo.
 
