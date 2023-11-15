@@ -60,7 +60,9 @@ Extracción de rasgos y Clasificación de objetos.
 
 ## Aplicación de Carlos Bustillo.
 
-https://github.com/cabustillo13?tab=repositories
+AUTOR: https://github.com/cabustillo13?tab=repositories
+
+
 Presentación en youTube: https://www.youtube.com/watch?v=5THIT2mFFNA
 
 
